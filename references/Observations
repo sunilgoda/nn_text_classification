@@ -1,0 +1,37 @@
+model.add(MaxPool1D()) 
+
+ValueError: Error when checking target: expected dense_12 to have 3 dimensions, but got array with shape (48667, 21)
+
+---
+batch-siz=128
+
+2356.ipynb		-result1.csv
+2356-2.ipynb	-result2.csv,result3.csv
+2356-3
+2356-4 	 --CuDNNlstm
+2356-5			-result5.csv, result5-1.csv --cnn4_weights.hdf5
+
+
+
+gru-75.39
+
+lstm-74.78
+
+cnn-73.66
+
+----------------------------
+input dimensions -> output dimensions
+embedding layer
+initializers
+activations
+loss functions
+vanishing gradient,exploding gradient
+Local translational invariance
+auto-encoders
+lstm
+gru
+
+
+tf.__version__  '1.10.1'
+k.__version__   '2.2.2'
+
