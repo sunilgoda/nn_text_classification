@@ -1,2 +1,2 @@
 # nn_text_classification
-Text Classification done to identify the correct category of Services support ticket system using CNN, RNN, LSTM, GRU
+TEXT CLASSIFICATION done to identify the correct category of Services: support and ticket system using CNN, RNN, LSTM, GRU
