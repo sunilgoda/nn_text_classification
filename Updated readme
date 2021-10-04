@@ -1,1 +1,7 @@
-2fc973cda6adda6895fd6f45c577306c748a52692fc973cda6adda6895fd6f45c577306c748a5269
+ README.md 
+@@ -1,2 +1,2 @@
+# nn_text_classification.
+Text Classification done to identify the correct category of HealthLine Services support ticket using CNN, RNN, LSTM, GRU.
+Text Classification done to identify the correct category of Services SUPPORT TICKET SYSTEM using CNN, RNN, LSTM, GRU.
+Text Classification done to identify the correct category of HealthLine Services support ticket using CNN, RNN, LSTM, GRU.Text Classification done to identify the correct category of Services SUPPORT TICKET SYSTEM using CNN, RNN, LSTM, GRU
+T
